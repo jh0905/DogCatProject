@@ -1,0 +1,8 @@
+visdom
+PIL
+torchvision
+numpy
+ipdb
+tqdm
+torch
+torchnet
